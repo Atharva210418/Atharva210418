@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Atharva210418
 - 👀 I’m interested in Machine learning, Cyber Security,Devops,Cloud Computing.
 - 🌱 I’m currently learning Ethical Hacking,Shell Scripting,Computer Networks and Programming.
-- 💞️ I’m looking to collaborate on Security Analyst Projects, Devops Collaboration,Front End Development.
+- 💞️ I’m looking to collaborate on Machine learning projects and Devops Collaboration.
 - 📫 How to reach me- you can email me at atharvapotdar2000@gmail.com 
 
 <!---
